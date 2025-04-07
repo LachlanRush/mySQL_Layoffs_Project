@@ -5,7 +5,7 @@ A mySQL project to clean and analyse layoff data, showcasing my skills in databa
 Processed layoff data through data cleaning and analysis, using mySQL to handle duplicates, standardise data, and extract trends.
 
 ## Files
-- `layoffs.csv`: : Raw dataset of layoffs.
+- `layoffs.csv`: Raw dataset of layoffs.
 - `layoffs_cleaning.sql`: Removes duplicates, standardises data, and handles nulls.
 - `layoffs_analysis.sql`: Analyses layoffs by company, industry, and time.
 
