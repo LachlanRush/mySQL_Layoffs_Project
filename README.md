@@ -12,9 +12,3 @@ I built this project to process layoff data through data cleaning and analysis, 
 - Cleaning: Deduplicated and standardised data with CTEs and joins.
 - Analysis: Aggregated data and calculated rolling totals with window functions.
 - mySQL: Designed schemas and wrote efficient queries.
-
-## Sample Query
-```sql
-SELECT SUBSTRING(`date`, 1, 7) AS `MONTH`, SUM(total_laid_off) 
-FROM layoffs_staging2 
-GROUP BY `MONTH`;
