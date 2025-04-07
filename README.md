@@ -2,7 +2,7 @@
 A mySQL project to clean and analyse layoff data, showcasing my skills in database management and SQL querying.
 
 ## Overview
-I built this project to process layoff data through data cleaning and analysis, using mySQL to handle duplicates, standardise data, and extract trends.
+Processed layoff data through data cleaning and analysis, using mySQL to handle duplicates, standardise data, and extract trends.
 
 ## Files
 - `layoffs_cleaning.sql`: Removes duplicates, standardises data, and handles nulls.
